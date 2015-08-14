@@ -1,0 +1,11 @@
+adresEMAIL;k1las@dlalosic.pl
+captchy;mmwks2u
+liczba;6366
+czyKlikac;false
+pozycjaGLOSUJ;898;495
+pozycjaAdresEMAIL;513;519
+pozycjaWYSLIJ;513;580
+pozycjaCAPTCHY;600;590
+pozycjaOK1;795;650
+pozycjaOK2;790;585
+pozycjaOSWIADCZENIE;788;433

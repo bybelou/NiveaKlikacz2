@@ -1,0 +1,11 @@
+adresEMAIL;a1@chotycze.pl
+captchy;ehf2vsd
+liczba;1874
+czyKlikac;true
+czyUzycListyAdresow;false
+predkosc;fast
+pozycjaGLOSUJ;898;495
+pozycjaAdresEMAIL;513;519
+pozycjaCAPTCHY;600;590
+pozycjaOK2;790;585
+pozycjaOSWIADCZENIE;788;433
